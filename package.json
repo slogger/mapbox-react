@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/lightstream-company/mapbox-react#readme",
   "peerDependencies": {
-    "react": "0.14",
-    "react-dom": "0.14"
+    "react": "15.1.0",
+    "react-dom": "15.1.0"
   },
   "devDependencies": {
     "babelify": "^6.3.0",
@@ -31,8 +31,8 @@
     "grunt-browserify": "^4.0.1",
     "grunt-contrib-watch": "^0.6.1",
     "mapbox.js": "^2.2.2",
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react": "15.1.0",
+    "react-dom": "15.1.0"
   },
   "browserify": {
     "transform": [
